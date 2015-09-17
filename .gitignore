@@ -1,0 +1,6 @@
+ant.properties
+build.xml
+gen/
+project.properties
+EarthAndMoon.iml
+local.properties
